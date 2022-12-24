@@ -1,0 +1,19 @@
+FRONT END
+-Beam, Column, Tension member
+-User Input
+    -Shape
+    -Forces
+    -Criteria
+
+BACK END
+-Beam
+    -Flexure
+    -Shear
+    -Deflection
+-Column
+-Tension
+
+OUTPUT
+-Capacities
+-Unity Ratio
+-Deflection
